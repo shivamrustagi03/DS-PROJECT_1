@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e . # This -e . given an indication that there is an setup file and its triggers it and happens whatever is written on setup.py code.
